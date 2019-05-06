@@ -1,0 +1,16 @@
+.app {
+  width: 600px;
+  margin: auto;
+}
+
+.allcats {
+  font-size: 14px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  height: 1000px;
+}
+
+.allcats > div {
+  flex-wrap: wrap;
+}

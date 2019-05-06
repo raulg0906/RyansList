@@ -1,0 +1,8 @@
+{
+  "db": {
+    "hostname": "localhost",
+    "username": "raul2",
+    "password": "raul",
+    "database": "craigslistclone"
+  }
+}
